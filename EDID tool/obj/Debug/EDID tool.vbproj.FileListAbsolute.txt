@@ -1,0 +1,23 @@
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\bin\Debug\EDID tool.exe.config
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\bin\Debug\EDID tool.exe.manifest
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\bin\Debug\EDID tool.application
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\bin\Debug\EDID tool.exe
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\bin\Debug\EDID tool.pdb
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\bin\Debug\EDID tool.xml
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\obj\Debug\EDID_tool.Resources.resources
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\obj\Debug\EDID tool.vbproj.GenerateResource.cache
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\obj\Debug\EDID tool.vbproj.CoreCompileInputs.cache
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\obj\Debug\EDID tool.TrustInfo.xml
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\obj\Debug\EDID tool.exe.manifest
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\obj\Debug\EDID tool.application
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\obj\Debug\EDID tool.exe
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\obj\Debug\EDID tool.xml
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\obj\Debug\EDID tool.pdb
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\obj\Debug\EDID_tool.Form1.resources
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\程式建置資料夾\EDID tool.exe.config
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\程式建置資料夾\EDID tool.exe.manifest
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\程式建置資料夾\EDID tool.application
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\程式建置資料夾\EDID tool.exe
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\程式建置資料夾\EDID tool.pdb
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\程式建置資料夾\EDID tool.xml
+C:\Users\bigse\OneDrive\Documents\Visual Basic\EDID tool FW48\EDID tool\obj\Debug\EDID tool.vbproj.AssemblyReference.cache
